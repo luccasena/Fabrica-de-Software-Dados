@@ -1,4 +1,5 @@
 -- Fábrica de Softare 2025.01 - Dia 2
+-- Após importar a base de dados no schema:
 
 SELECT * 
 FROM membros;
