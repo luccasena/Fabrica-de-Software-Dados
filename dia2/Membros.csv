@@ -1,0 +1,16 @@
+YearMonth;PersonID;FirstName;LastName;Email;JoinDate;BeginDate;ExpirationDate;GroupCode;State;Country;Classification;RenewStatus;CertificationStatus;Courses
+jan/25;1544269;Jose;Alencar;josealencar@gmail.com;09/06/2020;01/11/2024;31/10/2025;C419;Paraíba;Brazil;Individual;On;ACTIVE;1
+jan/25;6486848;Carlos;Dutra;carlosdutra@gmail.com;05/06/2020;01/07/2024;30/06/2025;C419;Paraíba;Brazil;Individual;On;INACTIVE;3
+jan/25;2248822;Cinthia;Ramos;cinthiaramos@gmail.com;30/05/2024;01/06/2024;31/05/2025;C419;Paraíba;Brazil;Student;Off;INACTIVE;2
+jan/25;11015540;Ricardo;Gondim;ricardogondim@gmail.com;10/12/2024;01/01/2025;31/12/2025;C419;Paraíba;Brazil;Individual;On;INACTIVE;4
+jan/25;8578641;Martha;Ramos;martharamos@gmail.com;05/01/2023;01/02/2024;31/01/2025;C420;Pernambuco;Brazil;Individual;Out;INACTIVE;0
+jan/25;5346390;Cesar;Coelho;cesarcoelho@gmail.com;11/01/2025;01/02/2025;31/01/2026;C420;Pernambuco;Brazil;Individual;On;INACTIVE;0
+jan/25;7660062;Carlos;Paiva;carlospaiva@gmail.com;23/01/2024;01/02/2024;31/01/2025;C420;Pernambuco;Brazil;Individual;Out;INACTIVE;0
+jan/25;11065380;Pedro;Dutra;pedrodutra@gmail.com;20/12/2024;01/01/2025;31/12/2025;C420;Pernambuco;Brazil;Individual;On;INACTIVE;2
+jan/25;3092940;Ester;Medeiros;estermedeiros@gmail.com;25/07/2023;01/08/2024;31/07/2025;C420;Pernambuco;Brazil;Individual;Out;ACTIVE;1
+jan/25;10318999;Sarah;Medeiros;sarahmedeiros@gmail.com;26/05/2024;01/06/2024;31/05/2025;C421;Ceará;Brazil;Individual;On;INACTIVE;6
+jan/25;1274850;Maria;Oliveira;mariaoliveira@gmail.com;19/06/2024;01/07/2024;30/06/2025;C421;Ceará;Brazil;Student;Off;ACTIVE;0
+jan/25;11086094;Andre;Santos;andresantos@gmail.com;26/12/2024;01/01/2025;31/12/2025;C421;Ceará;Brazil;Individual;On;INACTIVE;0
+jan/25;1288281;Igor;Santos;igorsantos@gmail.com;04/10/2023;01/12/2024;30/11/2025;C421;Ceará;Brazil;Individual;On;ACTIVE;0
+jan/25;4055669;Vanessa;Melo;vanessamelo@gmail.com;09/06/2020;01/04/2024;31/03/2025;C421;Ceará;Brazil;Individual;Off;ACTIVE;2
+jan/25;4054162;Tereza;Coutinho;terezacoutinho@gmail.com;12/02/2025;01/03/2024;28/02/2025;C421;Ceará;Brazil;Student;Off;INACTIVE;0
