@@ -1,7 +1,7 @@
 
 - Comandos Básicos: 
-git status 
-git add . 
-git commit -m "Mensage"
-git push
-git pull
+git status -> Mostra o estado dos arquivos no repositório (modificados, não rastreados, etc.)
+git add . -> Adiciona todas as mudanças ao stage (preparação para commit)
+git commit -m "Mensage" -> Salva as mudanças no histórico com uma mensagem descritiva.
+git push -> Envia os commits locais para o repositório remoto.
+git pull -> Baixa e incorpora mudanças do repositório remoto para o local.
