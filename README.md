@@ -17,7 +17,7 @@
 ## **2. SQL: 21/02** 
 - <a href="dia2/desafio/desafio.sql">Clique aqui</a>
 
-## **3. PowerB: 24/02**
+## **3. PowerBI: 24/02**
 - <a href="dia3-PowerBI/desafio-pbi/">Clique aqui </a>
 
 ## **4. ETL: 25/02** 
