@@ -33,7 +33,7 @@
 - Não houve!
 
 ## **DESAFIO FINAL** 
-- <a href="DESAFIO-FS-BDBI)">Clique aqui </a>
+- <a href="DESAFIO-FS-BDBI">Clique aqui </a>
 
 
 
