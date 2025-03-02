@@ -29,6 +29,12 @@
 ## **6. Modelagem de Dados: 27/02** 
 - <a href="dia6-Modelagem-de-Dados/desafioModelagem/">Clique aqui </a>
 
+## **7. Conteinerização: 27/02** 
+- Não houve!
+
+## **DESAFIO FINAL** 
+- <a href="DESAFIO-FS-BDBI)">Clique aqui </a>
+
 
 
 
