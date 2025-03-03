@@ -5,7 +5,7 @@
 
 
 <div align='center'>
-    <h1 text-align='center'>Ciência de Dados - 2025.01</h1>
+    <h1 text-align='center'>Ciência de Dados - 2025.01 - 📈</h1>
 </div>
 
 - Neste Repoitório, irei armazenar todo o material produzido das semanas de workshops dos dias 20.02 até 28.02. Logo abaixo, estará um direcionamento para os desafios de cada dia de Workshop:
